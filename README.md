@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+欢迎在这里提小块笔记相关的问题和建议。谢谢。
+
 <!--
 **piecenote/PieceNote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
